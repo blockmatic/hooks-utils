@@ -1,15 +1,10 @@
-# Hooks Utils
+# useAsyncCallback
 
-Delightful utility hooks for React and React Native apps
+A hook to manage the state and lifecycle of async data loading
 
 ## Usage
 
-`yarn add @blockmatic/hooks-utils`
-
-## Architecture
-
-We follow React hooks' canonical approach. 
-Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.  
+`yarn add @blockmatic/use-async-callback`
 
 ## Disclaimer
 
