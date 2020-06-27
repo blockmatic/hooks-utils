@@ -20,7 +20,7 @@
     "dist"
   ],
   "dependencies": {
-    "@blockmatic/use-is-mounted": "0.1.0"
+    "@blockmatic/use-is-mounted": "^0.1.0"
   },
   "peerDependencies": {
     "react": "^16.13.1"

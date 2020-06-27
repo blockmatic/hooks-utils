@@ -23,7 +23,7 @@
     "react": "^16.13.1"
   },
   "dependencies": {
-    "@blockmatic/use-async-callback": "0.1.0",
-    "@blockmatic/use-is-mounted": "0.1.0"
+    "@blockmatic/use-async-callback": "^0.1.0",
+    "@blockmatic/use-is-mounted": "^0.1.0"
   }
 }
