@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "test": "echo 'no tests'",
-    "build": "lerna run build --stream",
+    "prebuild": "tsc --build --clean",
+    "build": "tsc --build",
     "commit": "dev-scripts commit",
     "bootstrap": "lerna bootstrap --use-workspaces",
     "release": "env-cmd lerna publish",

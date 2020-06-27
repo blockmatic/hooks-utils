@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/use-is-mounted" },
+    { "path": "packages/use-async-callback" },
+    { "path": "packages/hooks-utils" }
+  ]
+}

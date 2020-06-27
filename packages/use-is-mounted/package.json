@@ -5,20 +5,21 @@
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "test": "echo 'no tests'",
     "build": "tsc",
     "prepublishOnly": "$npm_execpath run build"
   },
   "directories": {
-    "lib": "lib",
+    "dist": "dist",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "dist"
   ],
-  "peerDependencies": {
+  "dependencies": {
     "react": "^16.13.1"
   }
 }

@@ -8,13 +8,13 @@ Delightful utility hooks for React and React Native apps
 
 ## Architecture
 
-We follow React hooks' canonical approach. 
-Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.  
+We follow React hooks' canonical approach.
+Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.
 
 ## Disclaimer
 
 This is a work in progress. Join the telegram channel for more information.  
-https://t.me/telosdreamstack
+https://t.me/blockmatic
 
 ## Credits
 
