@@ -1,6 +1,6 @@
 {
   "name": "@blockmatic/use-is-mounted",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A hook to check if your component is mounted",
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
