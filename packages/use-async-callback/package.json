@@ -24,5 +24,9 @@
   },
   "peerDependencies": {
     "react": "^16.13.1"
+  },
+  "gitHead": "3d20595a3b245be51aa5eb05077c2fe22acebefc",
+  "publishConfig": {
+    "access": "public"
   }
 }

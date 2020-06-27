@@ -25,5 +25,9 @@
   "dependencies": {
     "@blockmatic/use-async-callback": "^0.1.0",
     "@blockmatic/use-is-mounted": "^0.1.0"
+  },
+  "gitHead": "3d20595a3b245be51aa5eb05077c2fe22acebefc",
+  "publishConfig": {
+    "access": "public"
   }
 }
