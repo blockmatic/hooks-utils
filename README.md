@@ -1,24 +1,22 @@
 # Hooks Utils
 
-Utility hooks for React and React Native apps
+Utility hooks for React and React Native apps.
 
 ## Usage
 
 `yarn add @blockmatic/hooks-utils`
+
+
+```jsx
+...
+```
 
 ## Architecture
 
 We follow React hooks' canonical approach.
 Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.
 
-## Disclaimer
-
-This is a work in progress. Join the telegram channel for more information.  
-https://t.me/blockmatic
-
 ## Credits
-
-This package is heavily inspired in the work of:
 
 - Kevin Wolf [@kevinwolfdev](https://github.com/kevinwolfdev)
 - Kevin Rodríguez [@kevinrodriguez-io](https://github.com/kevinrodriguez-io)
