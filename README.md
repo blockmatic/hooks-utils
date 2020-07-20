@@ -1,6 +1,6 @@
 # Hooks Utils
 
-Delightful utility hooks for React and React Native apps
+Utility hooks for React and React Native apps
 
 ## Usage
 
