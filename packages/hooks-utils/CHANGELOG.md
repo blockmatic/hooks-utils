@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/blockmatic/hooks-utils/compare/@blockmatic/hooks-utils@1.1.0...@blockmatic/hooks-utils@1.1.1) (2020-12-11)
+
+
+### Bug Fixes
+
+* return types ([82ca2dd](https://github.com/blockmatic/hooks-utils/commit/82ca2dd1b45e4c2048abd088b2aa3c0de19070f4))
+
+
+
+
+
 # [1.1.0](https://github.com/blockmatic/hooks-utils/compare/@blockmatic/hooks-utils@0.1.1...@blockmatic/hooks-utils@1.1.0) (2020-12-11)
 
 
