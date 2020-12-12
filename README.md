@@ -35,7 +35,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 ## Blockmatic
 
-Blockmatic is building robust ecosystem of people and tools for development of decentralized applications.
+Blockmatic is building robust ecosystem of people and tools for development of blockchain applications.
 
 [blockmatic.io](https://blockmatic.io)
 
