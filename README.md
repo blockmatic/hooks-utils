@@ -22,17 +22,16 @@ export const [useHook, HookProvider] = createContextHook(
 )
 ```
 
-## Architecture
-
-We follow React hooks' canonical approach.
-Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.
-
 ## Credits
 
 - Kevin Wolf [@kevinwolfdev](https://github.com/kevinwolfdev)
 - Kevin Rodríguez [@kevinrodriguez-io](https://github.com/kevinrodriguez-io)
 - Kent C. Dodds [@kentcdodds](https://github.com/kentcdodds)
 
+
+## Contributing
+
+Read the [contributing guidelines](https://developers.blockmatic.io/open-source/contributing-guidelines) for details.
 ## Blockmatic
 
 Blockmatic is building robust ecosystem of people and tools for development of blockchain applications.
