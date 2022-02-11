@@ -21,14 +21,6 @@ export const [useHook, HookProvider] = createContextHook(
   'You must wrap your application with <HookProvider /> in order to useHook().',
 )
 ```
-
-## Credits
-
-- Kevin Wolf [@kevinwolfdev](https://github.com/kevinwolfdev)
-- Kevin Rodríguez [@kevinrodriguez-io](https://github.com/kevinrodriguez-io)
-- Kent C. Dodds [@kentcdodds](https://github.com/kentcdodds)
-
-
 ## Contributing
 
 Read the [contributing guidelines](https://developers.blockmatic.io/open-source/contributing-guidelines) for details.

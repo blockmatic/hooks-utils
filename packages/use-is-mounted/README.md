@@ -6,19 +6,6 @@ A hook to for checking your component is mounted.
 
 `yarn add @blockmatic/use-is-mounted`
 
-## Disclaimer
-
-This is a work in progress. Join the telegram channel for more information.  
-https://t.me/telosdreamstack
-
-## Credits
-
-This package is heavily inspired in the work of:
-
-- Kevin Wolf [@kevinwolfdev](https://github.com/kevinwolfdev)
-- Kevin Rodríguez [@kevinrodriguez-io](https://github.com/kevinrodriguez-io)
-- Kent C. Dodds [@kentcdodds](https://github.com/kentcdodds)
-
 ## Blockmatic
 
 Blockmatic is building robust ecosystem of people and tools for development of decentralized applications.
