@@ -1,6 +1,6 @@
 {
   "name": "@blockmatic/use-async-callback",
-  "version": "0.1.1",
+  "version": "2.0.0",
   "description": "A hook to manage the state and lifecycle of async data loading",
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
@@ -23,7 +23,7 @@
     "@blockmatic/use-is-mounted": "^0.1.1"
   },
   "peerDependencies": {
-    "react": "^16.13.1"
+    "react": "^18.x"
   },
   "gitHead": "3d20595a3b245be51aa5eb05077c2fe22acebefc",
   "publishConfig": {

@@ -4,7 +4,9 @@ import { useCallback, useReducer } from 'react'
 import createReducer from './reducer'
 import { AnyPromise, Unwrap, State } from './types'
 
-export default function useAsyncCallback<Cb extends AnyPromise, Result = Unwrap<Cb>>(cb: Cb): [Cb, State<Result>] {
+export default function useAsyncCallback<Cb extends AnyPromise, Result = Unwrap<Cb>>(
+  cb: Cb,
+): [Cb, State<Result>] {
   const isMounted = useIsMounted()
 
   const [state, dispatch] = useReducer(createReducer<Result>(), {
@@ -22,7 +24,7 @@ export default function useAsyncCallback<Cb extends AnyPromise, Result = Unwrap<
         if (isMounted.current) dispatch({ type: 'succeed', payload: result })
         return result
       } catch (error) {
-        if (isMounted.current) dispatch({ type: 'fail', payload: error })
+        if (isMounted.current) dispatch({ type: 'fail', payload: error as Error })
         throw error
       }
     },

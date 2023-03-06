@@ -2,7 +2,7 @@
   "name": "hooks-utils-monorepo",
   "description": "Hooks utilities monorepo",
   "author": "Blockmatic.io",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -30,18 +30,17 @@
     }
   },
   "devDependencies": {
-    "@blockmatic/dev-scripts": "^1.6.1",
-    "@blockmatic/eslint-config": "^1.3.11",
-    "@blockmatic/prettier-config": "^1.3.3",
+    "@blockmatic/eslint-config": "^2.0.2",
+    "@blockmatic/prettier-config": "^2.1.0",
     "@blockmatic/tsconfig": "^1.8.4",
     "env-cmd": "^10.1.0",
-    "eslint": "6.6.0",
-    "eslint-plugin-react-hooks": "^4.0.4",
-    "husky": "^4.2.5",
-    "lerna": "^3.22.1",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5",
-    "typescript": "^3.9.5"
+    "eslint": "8.35.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "lerna": "^6.5.1",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
   },
   "repository": "git@github.com:blockmatic/hooks-utils.git",
   "license": "MIT"

@@ -1,6 +1,6 @@
 {
   "name": "@blockmatic/use-is-mounted",
-  "version": "0.1.1",
+  "version": "2.0.0",
   "description": "A hook to check if your component is mounted",
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
@@ -19,8 +19,8 @@
   "files": [
     "dist"
   ],
-  "dependencies": {
-    "react": "^16.13.1"
+  "peerDependencies": {
+    "react": "^18.x"
   },
   "gitHead": "3d20595a3b245be51aa5eb05077c2fe22acebefc",
   "publishConfig": {
