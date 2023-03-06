@@ -24,11 +24,6 @@
       "eslint --fix"
     ]
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "devDependencies": {
     "@blockmatic/eslint-config": "^2.0.2",
     "@blockmatic/prettier-config": "^2.1.0",
