@@ -1,6 +1,6 @@
 {
   "name": "@blockmatic/hooks-utils",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Delightful utility hooks for React and React Native apps",
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
