@@ -1,6 +1,6 @@
 {
   "name": "@blockmatic/hooks-utils",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Delightful utility hooks for React and React Native apps",
   "author": "Blockmatic.io",
   "repository": "git@github.com:blockmatic/hooks-utils.git",
@@ -23,11 +23,13 @@
     "react": "^18.x"
   },
   "dependencies": {
-    "@blockmatic/use-async-callback": "^0.1.1",
-    "@blockmatic/use-is-mounted": "^0.1.1"
+    "react": "^18.2.0"
   },
   "gitHead": "3d20595a3b245be51aa5eb05077c2fe22acebefc",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28"
   }
 }
